@@ -15,6 +15,7 @@ def long_planeteer_calls(calls)
     if word.size > 4
       true
     end
+  end
 end
 
 def find_the_cheese# code an argument here
