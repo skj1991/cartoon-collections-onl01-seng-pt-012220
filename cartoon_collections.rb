@@ -13,7 +13,7 @@ end
 def long_planeteer_calls(calls)
   calls.all? do |word|
     if word.size > 4
-      true 
+      true
     end
 end
 
